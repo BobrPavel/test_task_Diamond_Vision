@@ -14,7 +14,9 @@ script_dir = os.path.dirname(os.path.abspath(__file__))  # папка скрип
 file_path = os.path.join(script_dir, "text.txt")         # путь к файлу
 
 
-bot = Bot(token=os.getenv('TOKEN'), default=DefaultBotProperties(parse_mode=ParseMode.HTML))
+
+bot = Bot(token="8532035726:AAGCor0o1hDclsdaGcPSW3VqBe7r4Hlm65E", default=DefaultBotProperties(parse_mode=ParseMode.HTML)) # обычно TOKEN хранится в специальном .env файле, но для тестового задания сделано так
+
 dp = Dispatcher()
 
 
