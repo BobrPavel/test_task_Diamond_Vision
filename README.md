@@ -3,7 +3,7 @@
 ## Локальное развёртывание проекта
 Клонируйте репозиторий проекта и перейдите в него с помощью командной строки
 ```
-git clon https://github.com/BobrPavel/test_task_Polza_Agency.git
+git clon https://github.com/BobrPavel/test_task_iamond_Vision.git
 ```
 
 Создайте виртуальное окружение Pyton и активируйте его
@@ -20,12 +20,13 @@ pip install -r requirements.txt
 ```
 Пожалуйста проверьте как выглядит директория проекта, должно быть вот так:
 ```
-test_task_Polza_Agency/
+test_task_iamond_Vision/
 ├── Checking email domains 1/
 │   └── ... (файлы 1 задания)
 ├── Telegram_interhation_2/
 │   └── ... (файлы 2 задания)
 ├── Architecture_3.pdf
+├── AI_Blitz_4.pdf
 ├── .gitignore
 └── req.txt
 
