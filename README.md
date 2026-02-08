@@ -3,7 +3,7 @@
 ## Локальное развёртывание проекта
 Клонируйте репозиторий проекта и перейдите в него с помощью командной строки
 ```
-git clon https://github.com/BobrPavel/test_task_iamond_Vision.git
+https://github.com/BobrPavel/test_task_Diamond_Vision.git
 ```
 
 Создайте виртуальное окружение Pyton и активируйте его
